@@ -3,3 +3,5 @@ agrotool/__pycache__/
 venv
 *.env
 /*/migrations/0*.py
+*.pyc
+*/__pycache__
